@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR6p0007/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0007/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀無量壽佛經疏妙宗鈔
+  identifiers:
+    krp: KR6p0007
+    cbeta: X22n0407
+    cbeta_old_id: X22n0407
+    authorityid: CA0007958
+    json_key: X0407
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X22/X22n0407.xml
+    old_id: X22n0407
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0007_000-X.yaml, hash: 'sha256:8b225a87f5c8178a1fc3f551322ce8361bb2f90eac3404e3d5a978167e31b718'}
+  - {seq: 1, filename: KR6p0007_001-X.yaml, hash: 'sha256:d0e38aacb1a862f5e9f14c45cf11022e792a83c30030d292a30f4a164f53b764'}
+  - {seq: 2, filename: KR6p0007_002-X.yaml, hash: 'sha256:45f82bdef06cce580b2978be1bce996e83dffe2bf726d34c02cd01a0cce5a2f4'}
+  - {seq: 3, filename: KR6p0007_003-X.yaml, hash: 'sha256:40fac4a28064cae6b500b2eac399b09e277fbec632b7797e223f92106d05b964'}
+  - {seq: 4, filename: KR6p0007_004-X.yaml, hash: 'sha256:bd6329b4c5453f0870d1050abb5a827eb5ddc19fe7a99cb4202bea4eb8b04e55'}
+  - {seq: 5, filename: KR6p0007_005-X.yaml, hash: 'sha256:d5942152ad6d5c9a851d984da141b8b877ae6ccc2c492f171fc44773900e64c0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0007_000-X.markers.yaml, hash: 'sha256:d65db8a786acb2284e90588482e288940a101c8520b0f7a8dcdabc7f609ab2c2'}
+  - {seq: 1, role: markers, filename: assets/KR6p0007_001-X.markers.yaml, hash: 'sha256:0162fc9bc2b252445e76f11828e4fd7f41839670a94a749bcc3c220549e15f2c'}
+  - {seq: 2, role: markers, filename: assets/KR6p0007_002-X.markers.yaml, hash: 'sha256:51caca9326997be019f06e3cda69e39f07376dfa4a344e638e6a2e8b4c696f2a'}
+  - {seq: 3, role: markers, filename: assets/KR6p0007_003-X.markers.yaml, hash: 'sha256:5dbeda2e1944305ee192e224b916019382ab8a14a49acb4b5fd6ec9b70db6857'}
+  - {seq: 4, role: markers, filename: assets/KR6p0007_004-X.markers.yaml, hash: 'sha256:8d97c266cf5f0fd77224b2cca2cee09f02ff95485429526f452e13f9bb822f26'}
+  - {seq: 5, role: markers, filename: assets/KR6p0007_005-X.markers.yaml, hash: 'sha256:3ce3d5f92d9fe582bf15cd7cded3a58fc152fbf4e53825e8beb30cc11d227072'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0007_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 407-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0007_X_000-mulu-2
+    span:
+    - front
+    - 101
+    - 101
+  label: 凡例八條
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0007_X_000-mulu-3
+    span:
+    - front
+    - 470
+    - 470
+  label: No. 407-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0007_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16233
+  label: '佛說觀無量壽佛經疏玅宗鈔會
+
+    本卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0007_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 下筆序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0007_X_001-mulu-2
+    span:
+    - body
+    - 180
+    - 180
+  label: 觀無量壽佛經疏玅宗鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0007_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13176
+  label: 佛說觀無量壽佛經疏妙宗鈔會本卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0007_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15659
+  label: 佛說觀無量壽佛經疏玅宗鈔會本卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0007_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 16304
+  label: 佛說觀無量壽佛經疏玅宗鈔會本卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0007_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 14964
+  label: 佛說觀無量壽佛經疏玅宗鈔會本卷第五
+  type: juan
+  level: 1
+hash: sha256:f6566fcf7aef83935794b4ec637c2afe33d9fae92ad084f5c41d163e4723d1d9
