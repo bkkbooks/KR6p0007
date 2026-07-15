@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0007/v1
 canonical_location: https://kanripo.org/bkk/KR6p0007/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀無量壽佛經疏妙宗鈔
   identifiers:
@@ -24,19 +24,19 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0007_000.yaml, hash: 'sha256:8b225a87f5c8178a1fc3f551322ce8361bb2f90eac3404e3d5a978167e31b718'}
-  - {seq: 1, filename: KR6p0007_001.yaml, hash: 'sha256:d0e38aacb1a862f5e9f14c45cf11022e792a83c30030d292a30f4a164f53b764'}
-  - {seq: 2, filename: KR6p0007_002.yaml, hash: 'sha256:45f82bdef06cce580b2978be1bce996e83dffe2bf726d34c02cd01a0cce5a2f4'}
-  - {seq: 3, filename: KR6p0007_003.yaml, hash: 'sha256:40fac4a28064cae6b500b2eac399b09e277fbec632b7797e223f92106d05b964'}
-  - {seq: 4, filename: KR6p0007_004.yaml, hash: 'sha256:bd6329b4c5453f0870d1050abb5a827eb5ddc19fe7a99cb4202bea4eb8b04e55'}
-  - {seq: 5, filename: KR6p0007_005.yaml, hash: 'sha256:d5942152ad6d5c9a851d984da141b8b877ae6ccc2c492f171fc44773900e64c0'}
+  - {seq: 0, filename: KR6p0007_000.yaml, hash: 'sha256:f967141535e48cfe8bb461350cc884698ff1e3284c2e75c871a0133a1e0964f1'}
+  - {seq: 1, filename: KR6p0007_001.yaml, hash: 'sha256:cbc530bda49b72f0361a629d6cbcfd010846ba0631e88810e3ca46e05f393e4f'}
+  - {seq: 2, filename: KR6p0007_002.yaml, hash: 'sha256:8f633452b5088c28aa6486d57e5e76fb3c8ca5585b529ca2719074f8ca394b43'}
+  - {seq: 3, filename: KR6p0007_003.yaml, hash: 'sha256:ae6db71dec187d7405629dba26ef44756b79cf825d0ccf688c949fb21c7abcaf'}
+  - {seq: 4, filename: KR6p0007_004.yaml, hash: 'sha256:6ea9804e53c28a168b29527e36eb54db10f74c2916029764ac019bd0c000b5a0'}
+  - {seq: 5, filename: KR6p0007_005.yaml, hash: 'sha256:c2ca7e6ff1a1325ed8bdafd39f5cd9f7f10d1ffea6736c72625584b8e522dc6d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0007_000.markers.yaml, hash: 'sha256:5a7ea140f8629a4af41634dc809e7ffb4976656715272072a69e96206245c42d'}
-  - {seq: 1, role: markers, filename: assets/KR6p0007_001.markers.yaml, hash: 'sha256:c4f220ccdfb32d2e128cb203180dd740605552ff8ed000557079cbd408daa875'}
-  - {seq: 2, role: markers, filename: assets/KR6p0007_002.markers.yaml, hash: 'sha256:6112958b22c090df2010812a4dcbbd4b7e25bf7d68f34061091e103f4601dbcc'}
-  - {seq: 3, role: markers, filename: assets/KR6p0007_003.markers.yaml, hash: 'sha256:568d4c2fd9a606b554a29741b87e529b66d9251d8af8b1fa7a758544215d080d'}
-  - {seq: 4, role: markers, filename: assets/KR6p0007_004.markers.yaml, hash: 'sha256:6d6428bf4266fece277f75b81d5edcc1d9a684e818312f8ab26e8726cac83591'}
-  - {seq: 5, role: markers, filename: assets/KR6p0007_005.markers.yaml, hash: 'sha256:3a963ea1e7787ec2ab7cce3105dd4774d5bb190112a590a85202f3d38e30e825'}
+  - {seq: 0, role: markers, filename: assets/KR6p0007_000.markers.yaml, hash: 'sha256:ce3f29cd6fa649ce23e4cdc7083518af82b8975385607fac5d030e7dbcceb46f'}
+  - {seq: 1, role: markers, filename: assets/KR6p0007_001.markers.yaml, hash: 'sha256:abfb4beb2020bdae1d7424afe5586ac48d8609edc1f938cb7e4787b8698bdc38'}
+  - {seq: 2, role: markers, filename: assets/KR6p0007_002.markers.yaml, hash: 'sha256:ceddb62770acd432b463b20c2600d52ee7ae8a2c2119f0ece0964e1aad698e77'}
+  - {seq: 3, role: markers, filename: assets/KR6p0007_003.markers.yaml, hash: 'sha256:4a855beaef4acc33427ac61b3bc58a581be074ae7404ad7d8565b93dec9a1020'}
+  - {seq: 4, role: markers, filename: assets/KR6p0007_004.markers.yaml, hash: 'sha256:230a784625ed6ee8bc3d3e3e2887382be9c544827e24f7f5972743eaf602adde'}
+  - {seq: 5, role: markers, filename: assets/KR6p0007_005.markers.yaml, hash: 'sha256:8af8b1e089e1c18bfe0c857eaba4cecfb19fc8dc8cea1c8baee587a48b2e55cb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,4 +140,7 @@ table_of_contents:
   label: 佛說觀無量壽佛經疏玅宗鈔會本卷第五
   type: juan
   level: 1
-hash: sha256:3651e9bcaf213cc37d8f54e107114911ed3ba17142dd49e7ed60c9588d38ac79
+hash: sha256:86a8c02f7b8cd5bbddf1012849a320a82e14154c03ae36447a41e4ef4f205700
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
