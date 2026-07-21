@@ -24,14 +24,14 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0007_000.yaml, hash: 'sha256:f967141535e48cfe8bb461350cc884698ff1e3284c2e75c871a0133a1e0964f1'}
+  - {seq: 0, filename: KR6p0007_000.yaml, hash: 'sha256:69da9b8c7ad99533568b4b27b759b37578613a469139e765d589f565bd46c86a'}
   - {seq: 1, filename: KR6p0007_001.yaml, hash: 'sha256:cbc530bda49b72f0361a629d6cbcfd010846ba0631e88810e3ca46e05f393e4f'}
   - {seq: 2, filename: KR6p0007_002.yaml, hash: 'sha256:8f633452b5088c28aa6486d57e5e76fb3c8ca5585b529ca2719074f8ca394b43'}
   - {seq: 3, filename: KR6p0007_003.yaml, hash: 'sha256:ae6db71dec187d7405629dba26ef44756b79cf825d0ccf688c949fb21c7abcaf'}
   - {seq: 4, filename: KR6p0007_004.yaml, hash: 'sha256:6ea9804e53c28a168b29527e36eb54db10f74c2916029764ac019bd0c000b5a0'}
   - {seq: 5, filename: KR6p0007_005.yaml, hash: 'sha256:c2ca7e6ff1a1325ed8bdafd39f5cd9f7f10d1ffea6736c72625584b8e522dc6d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0007_000.markers.yaml, hash: 'sha256:ce3f29cd6fa649ce23e4cdc7083518af82b8975385607fac5d030e7dbcceb46f'}
+  - {seq: 0, role: markers, filename: assets/KR6p0007_000.markers.yaml, hash: 'sha256:cfbbc4513b999f4e86a9aeac9a40c548d186d1530aa0e0a440c150701db8e856'}
   - {seq: 1, role: markers, filename: assets/KR6p0007_001.markers.yaml, hash: 'sha256:abfb4beb2020bdae1d7424afe5586ac48d8609edc1f938cb7e4787b8698bdc38'}
   - {seq: 2, role: markers, filename: assets/KR6p0007_002.markers.yaml, hash: 'sha256:ceddb62770acd432b463b20c2600d52ee7ae8a2c2119f0ece0964e1aad698e77'}
   - {seq: 3, role: markers, filename: assets/KR6p0007_003.markers.yaml, hash: 'sha256:4a855beaef4acc33427ac61b3bc58a581be074ae7404ad7d8565b93dec9a1020'}
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0007_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 407-A
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0007_X_000-mulu-2
     span:
-    - front
+    - body
     - 101
     - 101
   label: 凡例八條
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0007_X_000-mulu-3
     span:
-    - front
+    - body
     - 470
     - 470
   label: No. 407-B
@@ -140,7 +140,7 @@ table_of_contents:
   label: 佛說觀無量壽佛經疏玅宗鈔會本卷第五
   type: juan
   level: 1
-hash: sha256:86a8c02f7b8cd5bbddf1012849a320a82e14154c03ae36447a41e4ef4f205700
+hash: sha256:33ceea23a4edaa205e56823550a26fc3baf598143da66210c7556d95bd1abbb4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
